@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Projeto360.Api/Projeto360.Api.csproj" />
+  <Project Path="Projeto360.Aplicacao/Projeto360.Aplicacao.csproj" />
+  <Project Path="Projeto360.Dominio/Projeto360.Dominio.csproj" />
+  <Project Path="Projeto360.Repositorio/Projeto360.Repositorio.csproj" />
+</Solution>
